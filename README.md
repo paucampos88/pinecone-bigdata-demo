@@ -1,19 +1,19 @@
 Pinecone Big Data Demo
-Proyecto académico desarrollado para el curso Datos Masivos.
+Proyecto para Big Data
 
 Objetivo
 Demostrar el funcionamiento básico de una base de datos vectorial mediante Pinecone.
 
-Tecnologías utilizadas
+Tecnologías utilizadas:
 Pinecone
 Python
 Vector Search
 Big Data
 RAG
-Archivos
+Archivos:
 pinecone_demo.py
 requirements.txt
-Ejecución
+Ejecución:
 Instalar dependencias:
 
 pip install -r requirements.txt
